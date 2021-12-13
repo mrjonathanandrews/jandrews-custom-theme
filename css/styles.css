@@ -1,0 +1,12 @@
+html,
+body {
+    margin: 0;
+    color: #000000;
+    background: antiquewhite;
+    font: sans-serif;
+}
+
+body {
+    padding: 20px;
+}
+
